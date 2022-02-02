@@ -11,6 +11,8 @@ git push origin main:main
 
 stash operation  with stash message 
 git stash push -m tomorrow
+git stash list
+git stash apply stash@{0}   Time 6:15
  
 performing stash operation 
 	1.stash the some content on file 
