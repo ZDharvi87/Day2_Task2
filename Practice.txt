@@ -1,0 +1,13 @@
+clone Git repository link : https://github.com/ZDharvi87/Day2_Task2.git
+
+git cat-file -s d9b5d442d18b860715a30c294c4988bd5d0e2e8b
+git show --textconv :HTML/index.html
+
+stash operation  with stash message 
+git stash push -m tomorrow
+
+perform the pull  & push operation 
+
+learn How to resolve conflicts with stash , push ,pull and staged 
+
+git push origin main:main
