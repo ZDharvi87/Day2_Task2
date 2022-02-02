@@ -11,3 +11,5 @@ perform the pull  & push operation
 learn How to resolve conflicts with stash , push ,pull and staged 
 
 git push origin main:main
+
+Done !
